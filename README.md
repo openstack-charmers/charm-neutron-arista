@@ -1,3 +1,6 @@
+> **WARNING**: this repository is outdated and has moved to
+> https://opendev.org/openstack/charm-neutron-api-plugin-arista
+
 # Overview
 
 This is a "source" charm, which is intended to be strictly the top
