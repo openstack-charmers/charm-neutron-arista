@@ -1,5 +1,7 @@
-> **WARNING**: this repository is outdated and has moved to
-> https://opendev.org/openstack/charm-neutron-api-plugin-arista
+> **WARNING**: this repository is outdated and has moved to:
+>
+> * https://opendev.org/openstack/charm-neutron-api-plugin-arista
+> * https://github.com/openstack/charm-neutron-api-plugin-arista
 
 # Overview
 
